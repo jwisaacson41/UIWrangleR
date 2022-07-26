@@ -1,0 +1,99 @@
+﻿Primary_ID,Spouse_ID,Name,Marital_Status,Address,Giving,Household_Primary
+FAKE669261,FAKE711503,Commander Larma D'Acy,Married,6250 Han Solo Street,2118.36,FAKE669261
+FAKE905527,FAKE497957,Han Solo,Married,860 Clone Wars Court,3737.67,FAKE905527
+FAKE965069,FAKE108240,Sheev Palpatine,Married,2328 Separatist Lane,3630.9,FAKE965069
+FAKE623287,FAKE874975,Rey,Married,144 Bail Organa Avenue,7009.2,FAKE623287
+FAKE750434,FAKE154783,Qui-Gon Jinn,Married,2289 Tatooine Lane,2436.94,FAKE750434
+FAKE478733,FAKE804568,Second Sister,Married,4349 Darth Sidious Avenue,2338.11,FAKE478733
+FAKE489452,FAKE678843,Trilla Suduri,Married,1464 Millenium Falcon Street,2915.23,FAKE489452
+FAKE574723,FAKE822136,Cere Junda,Married,3164 Destroyer Court,8731.11,FAKE574723
+FAKE224638,FAKE896341,Kazuda Xiono,Married,738 Anakin Skywalker Boulevard,444.82,FAKE224638
+FAKE713149,FAKE074804,Nari,Married,1818 Dantooine Circle,8608.85,FAKE713149
+FAKE739465,FAKE055216,Wedge Antilles,Married,8477 Mace Windu Circle,9359.96,FAKE739465
+FAKE180343,FAKE545863,Kylo Ren,Married,2295 Anakin Skywalker Boulevard,3483.3,FAKE180343
+FAKE343971,FAKE944345,"Temmin ""Snap"" Wexley",Married,212 We'Re Doomed! Boulevard,2155.28,FAKE343971
+FAKE845086,FAKE398864,Harter Kalonia,Married,813 Darksaber Avenue,5428.07,FAKE845086
+FAKE508007,FAKE475628,Arvel Crynyd,Married,326 Jedi Avenue,7869.73,FAKE508007
+FAKE186788,FAKE906235,Owen Lars,Married,465 Mos Eisley Lane,2564.44,FAKE186788
+FAKE545404,FAKE953253,Ezra Bridger,Married,800 Chanceller Boulevard,9893.63,FAKE545404
+FAKE555475,FAKE856275,Darth Tyranus,Married,8505 Lightsaber Court,9090.5,FAKE555475
+FAKE843465,FAKE313185,Ryoo Naberrie,Married,7491 Hutt Court,8740.45,FAKE843465
+FAKE184209,FAKE138542,Darth Vader,Married,5 Darth Sidious Avenue,2599.73,FAKE184209
+FAKE829427,FAKE323486,Jobal Naberrie,Married,6519 Count Dooku Boulevard,1036.62,FAKE829427
+FAKE914930,FAKE322393,Cliegg Lars,Married,1618 Padme Lane,2495.5,FAKE914930
+FAKE406852,FAKE317875,Kanan Jarrus,Married,7938 Separatist Lane,2887.65,FAKE406852
+FAKE545129,FAKE543614,Cal Kestis,Married,469 Amidala Court,8269.89,FAKE545129
+FAKE610170,FAKE760010,Wes Janson,Married,13 Lea Organa Street,5745.34,FAKE610170
+FAKE330422,FAKE026484,Jan Dodonna,Married,959 Coruscant Circle,4457.8,FAKE330422
+FAKE326634,FAKE362441,Ben Solo,Married,854 Millenium Falcon Street,7490.01,FAKE326634
+FAKE402273,FAKE661901,Vanden Willard,Married,349 Luke Skywalker Lane,9329.86,FAKE402273
+FAKE786984,FAKE292845,"Garven Dreis (a.k.a. ""Red Leader"")",Married,4872 Sith Street,2795.45,FAKE786984
+FAKE074804,FAKE237586,Korr Sella,Married,7250 Darth Sidious Avenue,5160.76,FAKE074804
+FAKE822136,FAKE574723,Padmé Amidala Naberrie,Married,3164 Destroyer Court,8731.11,FAKE574723
+FAKE906235,FAKE186788,Paige Tico,Married,465 Mos Eisley Lane,2564.44,FAKE186788
+FAKE026484,FAKE330422,Tan Divo,Married,959 Coruscant Circle,4457.8,FAKE330422
+FAKE711503,FAKE669261,Chirrut Îmwe,Married,6250 Han Solo Street,2118.36,FAKE669261
+FAKE953253,FAKE545404,Poe Dameron,Married,800 Chanceller Boulevard,9893.63,FAKE545404
+FAKE313185,FAKE843465,Lando Calrissian,Married,7491 Hutt Court,8740.45,FAKE843465
+FAKE323486,FAKE829427,Caleb Dume,Married,6519 Count Dooku Boulevard,1036.62,FAKE829427
+FAKE760010,FAKE610170,Sola Naberrie,Married,13 Lea Organa Street,5745.34,FAKE610170
+FAKE398864,FAKE845086,Eno Cordova,Married,813 Darksaber Avenue,5428.07,FAKE845086
+FAKE678843,FAKE489452,Silman,Married,1464 Millenium Falcon Street,2915.23,FAKE489452
+FAKE856275,FAKE555475,Sully,Married,8505 Lightsaber Court,9090.5,FAKE555475
+FAKE497957,FAKE905527,Reva Sevander,Married,860 Clone Wars Court,3737.67,FAKE905527
+FAKE661901,FAKE402273,Minas Velti,Married,349 Luke Skywalker Lane,9329.86,FAKE402273
+FAKE322393,FAKE914930,Lux Bonteri,Married,1618 Padme Lane,2495.5,FAKE914930
+FAKE475628,FAKE508007,Bail Organa,Married,326 Jedi Avenue,7869.73,FAKE508007
+FAKE896341,FAKE224638,Finis Valorum,Married,738 Anakin Skywalker Boulevard,444.82,FAKE224638
+FAKE292845,FAKE786984,Roken,Married,4872 Sith Street,2795.45,FAKE786984
+FAKE154783,FAKE750434,Raymus Antilles,Married,2289 Tatooine Lane,2436.94,FAKE750434
+FAKE055216,FAKE739465,Crix Madine,Married,8477 Mace Windu Circle,9359.96,FAKE739465
+FAKE944345,FAKE343971,Biggs Darklighter,Married,212 We'Re Doomed! Boulevard,2155.28,FAKE343971
+FAKE545863,FAKE180343,Anakin Skywalker,Married,2295 Anakin Skywalker Boulevard,3483.3,FAKE180343
+FAKE317875,FAKE406852,Ruwee Naberrie,Married,7938 Separatist Lane,2887.65,FAKE406852
+FAKE108240,FAKE965069,Mon Mothma,Married,2328 Separatist Lane,3630.9,FAKE965069
+FAKE804568,FAKE478733,Dak Ralter,Married,4349 Darth Sidious Avenue,2338.11,FAKE478733
+FAKE874975,FAKE623287,Jek Tono Porkins,Married,144 Bail Organa Avenue,7009.2,FAKE623287
+FAKE543614,FAKE545129,Count Dooku,Married,469 Amidala Court,8269.89,FAKE545129
+FAKE945049,,Baze Malbus,Single,2934 Order 66 Circle,2623.96,
+FAKE362441,FAKE326634,Cassian Andor,Married,854 Millenium Falcon Street,7490.01,FAKE326634
+FAKE138542,FAKE184209,Finn,Married,5 Darth Sidious Avenue,2599.73,FAKE184209
+FAKE064109,,Obi-Wan Kenobi,Single,3017 Republic Avenue,9478.15,
+FAKE748449,,Ren,Single,2928 Jedi Avenue,6614.74,
+FAKE872670,,Vice-Admiral Amilyn Holdo,Single,4792 Bail Organa Avenue,1054.15,
+FAKE176901,,Ben Kenobi,Single,8055 Rebel Alliance Street,7761.39,
+FAKE379717,,Captain Colton,Single,8964 Hutt Court,8099.93,
+FAKE465072,,Cin Drallig,Single,2959 Grievous Lane,3340.03,
+FAKE443621,,Beru Whitesun Lars,Single,614 Lando Calrissian Circle,8156.09,
+FAKE460776,,"Jessika ""Jess"" Testor Pava",Single,5187 Bail Organa Avenue,9563.16,
+FAKE787900,,Jun Sato,Single,4944 Obi-Wan Kenobi Street,5308.98,
+FAKE261608,,Caluan Ematt,Single,404 Darth Vader Court,3804.1,
+FAKE830508,,Sifo-Dyas,Single,5522 Qui-Gon Jinn Boulevard,9003.37,
+FAKE393758,,Bren Derlin,Single,6967 Bobba Fett Avenue,1036,
+FAKE455101,,"Derek ""Hobbie"" Klivian",Single,1565 Count Dooku Boulevard,6073.45,
+FAKE911045,,Tala Durith,Single,252 Chanceller Boulevard,5667.9,
+FAKE019956,,Shmi Skywalker,Single,4093 Death Star Avenue,6709.21,
+FAKE328145,,Third Sister,Single,5666 Palpatine Lane,4739.93,
+FAKE663842,,Taron Malicos,Single,927 Ewoks Lane,6655.06,
+FAKE732738,,Pharl McQuarrie,Single,4102 Shmi Skywalker Court,4185.9,
+FAKE220007,,Bodhi Rook,Single,468 Army Circle,2919.22,
+FAKE817933,,Admiral Ushos O. Statura,Single,2428 Darksaber Avenue,9099.44,
+FAKE915982,,Carlist Rieekan,Single,974 Order 66 Circle,1224.65,
+FAKE222723,,"Tallissan ""Tallie"" Lintra",Single,2647 Dantooine Circle,9593.19,
+FAKE649678,,Darth Sidious,Single,9599 Uncle Owen Court,3622.69,
+FAKE205066,,Rose Tico,Single,771 We'Re Doomed! Boulevard,561.27,
+FAKE841151,,Breha Organa,Single,3585 Galaxy Street,219.03,
+FAKE160351,,Lieutenant Kaydel Ko Connix,Single,233 Ship Boulevard,5866.67,
+FAKE605649,,Jannah,Single,712 Sandpeople Avenue,4801.9,
+FAKE774532,,Pooja Naberrie,Single,520 Wookiee Lane,4069.99,
+FAKE995322,,Darth Bane,Single,267 Darth Tyrannous Court,8166.28,
+FAKE648502,,Mace Windu,Single,7654 Palpatine Lane,146.99,
+FAKE210937,,Joph Seastriker,Single,8051 Podracing Court,5120.75,
+FAKE710371,,Luke Skywalker,Single,2304 Jar Jar Binks Boulevard,1217.97,
+FAKE519043,,Leia Organa,Single,310 Knight Lane,5325.4,
+FAKE042091,,Depa Billaba,Single,529 Hutt Court,2431.44,
+FAKE661780,,Agent Kallus,Single,38 Senator Street,2013.65,
+FAKE139891,,Faro Argyus,Single,4270 Jedi Avenue,6402.67,
+FAKE175067,,Jocasta Nu,Single,597 Luke Skywalker Lane,7371.54,
+FAKE097654,,Zev Senesca,Single,7835 Darth Maul Street,4489.92,
+FAKE237586,,Beaumont Kin,Single,838 Sith Street,1375.65,
