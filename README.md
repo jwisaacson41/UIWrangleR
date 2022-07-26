@@ -5,10 +5,16 @@
 
 <!-- badges: start -->
 
-[![](https://www.r-pkg.org/badges/version/badger?color=green)](https://cran.r-project.org/package=badger)
+    #> v Setting active project to 'C:/Users/jisaacson/Documents/GitHub Projects/
+    #> UIWrangleR/UIWrangleR'
+
+[![](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
+[![Project Status: Active - The project has reached a stable, usable
+state and is being actively
+developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![License:
 MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://cran.r-project.org/web/licenses/MIT)
-
+[![](https://img.shields.io/github/last-commit/jwisaacson41/UIWrangleR.svg)](https://github.com/jwisaacson41/UIWrangleR/commits/master)
 <!-- badges: end -->
 
 The goal of UIWrangleR is to to facilitate while standardizing common

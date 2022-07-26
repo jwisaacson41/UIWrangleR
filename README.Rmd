@@ -22,13 +22,14 @@ library(kableExtra)
 # UIWrangleR
 
 <!-- badges: start -->
-```{r, echo=FALSE, results='asis'}
+```{r, echo=FALSE,  results='asis'}
 cat(
-  badge_cran_release("badger", "green"),
-  badger::badge_license(color = "blue")
+  badge_lifecycle("stable"),
+  badge_repostatus("Active"),
+  badge_license("MIT"),
+  badge_last_commit("jwisaacson41/UIWrangleR")
 )
 ```
-
 <!-- badges: end -->
 
 The goal of UIWrangleR is to to facilitate while standardizing common functions and processes used by the University of Idaho Advancement Services Data Team.

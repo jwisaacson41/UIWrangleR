@@ -6,7 +6,7 @@ Author: Jon Isaacson
 Maintainer: Jon Isaacson <jon.w.isaacson@gmail.com>
 Description: This package is built directly for the Univeristy of Idaho Advancement Services Data Team.
     The package aims to facilitate while standardizing common functions and processes used by the Data Team.
-License: MIT
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Depends: 
