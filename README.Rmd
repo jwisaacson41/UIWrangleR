@@ -1,5 +1,6 @@
 ---
 output: github_document
+always_allow_html: true
 ---
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
@@ -12,6 +13,10 @@ knitr::opts_chunk$set(
   out.width = "100%"
 )
 library(badger)
+library(dplyr)
+library(UIWrangleR)
+library(rmarkdown)
+library(kableExtra)
 ```
 
 # UIWrangleR
@@ -20,7 +25,7 @@ library(badger)
 ```{r, echo=FALSE, results='asis'}
 cat(
   badge_cran_release("badger", "green"),
-  badger::badge_license(, color = "blue")
+  badger::badge_license(color = "blue")
 )
 ```
 
@@ -36,3 +41,28 @@ You can install the development version of UIWrangleR like so:
 install.packages("devtools")
 devtools::install_github("https://github.com/jwisaacson41/UIWrangleR")
 ```
+
+## Functions
+
+### `household_fix`
+
+The `household_fix` function helps to fill in NA values with the values of another column. The most common instance is where married individuals will have a primary individual listed. Single individuals typically do not have a `household_primary` ID listed as shown below.
+
+```{r}
+starwars_donors[c(1:3, 90:93),] %>%
+  kable() %>%
+  kable_styling()
+```
+
+Using the function we can quickly reconcile the field to ensure all individuals have a value in the `Household_Primary` column.
+
+```{r}
+starwars_donors[c(1:3, 90:93),] %>%
+  mutate(Household_Primary = household_fix(Household_Primary, Primary_ID)) %>%
+  kable() %>%
+  kable_styling()
+```
+
+
+## Data Sets
+
