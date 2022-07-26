@@ -11,11 +11,19 @@ knitr::opts_chunk$set(
   fig.path = "man/figures/README-",
   out.width = "100%"
 )
+library(badger)
 ```
 
 # UIWrangleR
 
 <!-- badges: start -->
+```{r, echo=FALSE, results='asis'}
+cat(
+  badge_cran_release("badger", "green"),
+  badge_github_actions("")
+)
+```
+
 <!-- badges: end -->
 
 The goal of UIWrangleR is to to facilitate while standardizing common functions and processes used by the University of Idaho Advancement Services Data Team.

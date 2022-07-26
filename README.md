@@ -4,6 +4,11 @@
 # UIWrangleR
 
 <!-- badges: start -->
+
+[![](https://www.r-pkg.org/badges/version/badger?color=green)](https://cran.r-project.org/package=badger)
+[![R build
+status](https://github.com//workflows/R-CMD-check/badge.svg)](https://github.com//actions)
+
 <!-- badges: end -->
 
 The goal of UIWrangleR is to to facilitate while standardizing common

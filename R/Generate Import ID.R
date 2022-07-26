@@ -1,4 +1,4 @@
-#' @Title Generate Import ID
+#' @title Generate Import ID
 #'
 #' @description Create an import ID list to be used for import into UI's CRM software
 #'
@@ -9,12 +9,14 @@
 #' @param contribution_id (Character) is a vector containing all of the GUIDS of contributions that should be in the list
 #'
 #' @return returns a data frame with the rows of c(person_id, organization_id, prospect_id, and contribution_id)
+#' @export
 #'
-#' @example
+#' @examples
 #' list<-rep("My List Name", 1:20)
 #' people<-paste0("Person", 1:10)
 #' organizations<-paste0("Organization", 1:10)
 #' generate_importID(list, people, organizations)
+
 
 generate_importID<-function(list_name, person_id=NULL,
                             organization_id=NULL, prospect_id=NULL,
