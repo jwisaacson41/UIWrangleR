@@ -45,7 +45,7 @@ starwars_donors[c(1:3, 90:93),] %>%
 <th style="text-align:left;">
 </th>
 <th style="text-align:left;">
-ï..Primary_ID
+Primary_ID
 </th>
 <th style="text-align:left;">
 Spouse_ID
@@ -168,6 +168,7 @@ Single
 5120.75
 </td>
 <td style="text-align:left;">
+NA
 </td>
 </tr>
 <tr>
@@ -192,6 +193,7 @@ Single
 1217.97
 </td>
 <td style="text-align:left;">
+NA
 </td>
 </tr>
 <tr>
@@ -216,6 +218,7 @@ Single
 5325.40
 </td>
 <td style="text-align:left;">
+NA
 </td>
 </tr>
 <tr>
@@ -240,6 +243,7 @@ Single
 2431.44
 </td>
 <td style="text-align:left;">
+NA
 </td>
 </tr>
 </tbody>
@@ -261,7 +265,7 @@ starwars_donors[c(1:3, 90:93),] %>%
 <th style="text-align:left;">
 </th>
 <th style="text-align:left;">
-ï..Primary_ID
+Primary_ID
 </th>
 <th style="text-align:left;">
 Spouse_ID
@@ -384,6 +388,7 @@ Single
 5120.75
 </td>
 <td style="text-align:left;">
+FAKE210937
 </td>
 </tr>
 <tr>
@@ -408,6 +413,7 @@ Single
 1217.97
 </td>
 <td style="text-align:left;">
+FAKE710371
 </td>
 </tr>
 <tr>
@@ -432,6 +438,7 @@ Single
 5325.40
 </td>
 <td style="text-align:left;">
+FAKE519043
 </td>
 </tr>
 <tr>
@@ -456,9 +463,12 @@ Single
 2431.44
 </td>
 <td style="text-align:left;">
+FAKE042091
 </td>
 </tr>
 </tbody>
 </table>
 
 ## Data Sets
+
+Star Wars Donors
