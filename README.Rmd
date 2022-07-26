@@ -20,7 +20,7 @@ library(badger)
 ```{r, echo=FALSE, results='asis'}
 cat(
   badge_cran_release("badger", "green"),
-  badge_github_actions("")
+  badger::badge_license(, color = "blue")
 )
 ```
 
@@ -34,7 +34,5 @@ You can install the development version of UIWrangleR like so:
 
 ``` r
 install.packages("devtools")
-devtools::install_github()
+devtools::install_github("https://github.com/jwisaacson41/UIWrangleR")
 ```
-
-

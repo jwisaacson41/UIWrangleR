@@ -6,8 +6,8 @@
 <!-- badges: start -->
 
 [![](https://www.r-pkg.org/badges/version/badger?color=green)](https://cran.r-project.org/package=badger)
-[![R build
-status](https://github.com//workflows/R-CMD-check/badge.svg)](https://github.com//actions)
+[![License:
+MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://cran.r-project.org/web/licenses/MIT)
 
 <!-- badges: end -->
 
@@ -21,5 +21,5 @@ You can install the development version of UIWrangleR like so:
 
 ``` r
 install.packages("devtools")
-devtools::install_github()
+devtools::install_github("https://github.com/jwisaacson41/UIWrangleR")
 ```
